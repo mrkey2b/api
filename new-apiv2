@@ -1,0 +1,9 @@
+net-nitrogame.net
+
+DNS 1 : cp1.dnshostservices.com
+DNS 2 : cp2.dnshostservices.com
+DNS 3 : ns4-nitrogame.cf
+DNS 4 : ns-nitrogame.cf
+
+type serveur CPANEL
+&error
