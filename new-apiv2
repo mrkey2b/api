@@ -7,3 +7,7 @@ DNS 4 : ns-nitrogame.cf
 
 type serveur CPANEL
 &error
+
+
+ovh type serveur 75qa00N
+lws type serveur 8a15WW-a1
