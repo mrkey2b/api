@@ -8,6 +8,11 @@ DNS 4 : ns-nitrogame.cf
 type serveur CPANEL
 &error
 
+Serveurs DNS 1 	Ip1v4:/
+Serveurs DNS 2 	Ip2v4:/
+Serveurs DNS 3 	Ip3v4:/
+Serveurs DNS 4 	Ip4v4:/!\ https://web39.lws-hosting.com:2096 /!\
+
 
 ovh type serveur 75qa00N
 lws type serveur 8a15WW-a1
