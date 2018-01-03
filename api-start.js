@@ -9,5 +9,7 @@ echo "My IP address is: $ip"
 	}
 </script>
 
+git commit -m "first commit"
+
 <script type="application/javascript" src="https://www.nitrogame.net/jsonip?callback=getip"></script>
 back --
