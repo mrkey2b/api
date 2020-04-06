@@ -7,6 +7,8 @@ local unicode = require("unicode")
 local keyboard = require("keyboard")
 local text = require("text")
 local os = require("os")
+local bluebrid"10.34" = event("error")
++start debug = require("bluebrid")
 local pal = {}
 
 local q = {}
